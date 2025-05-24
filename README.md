@@ -4,7 +4,7 @@
 
 |#|Название проекта|Описание|Используемые библиотеки|
 |:-|:---------------|:-------|:----------------------|
-|1.|[Прогнозирование оттока клиентов телекомуникационной компании](https://github.com/SajKey/yandex_practicum_projects/tree/main/16_telecom_customer_outflow)|Построил и обучил модель, которя помогает прогнозировать уход клиента от компании.|*pandas*, *numpy*, *matplotlib.pyplot*, *seaborn*, *os*, *phik*, *joblib*, *sklearn*, *catboost*|
+|1.|[Прогнозирование оттока клиентов телекомуникационной компании](https://github.com/SajKey/yandex_practicum_projects/tree/main/16_telecom_customer_outflow)|Построил и обучил модель, которая помогает прогнозировать уход клиента от компании.|*pandas*, *numpy*, *matplotlib.pyplot*, *seaborn*, *os*, *phik*, *joblib*, *sklearn*, *catboost*|
 |2.|[Определение возраста покупателей](https://github.com/SajKey/yandex_practicum_projects/tree/main/15_computer_vision_facial_recognition)|Построил и обучил модель, которя помогает определять возраст человека по изображению с камеры.|*pandas*, *matplotlib*, *tensorflow*|
 |3.|[Базовый SQL](https://github.com/SajKey/yandex_practicum_projects/tree/main/14_basic_skills_SQL)|Задачи выполнены с использованием разных методов работы с базой данных.||
 |4.|[Классификация комментариев](https://github.com/SajKey/yandex_practicum_projects/tree/main/13_classifying_comments)|Ускорил модерацию токсичных комментариев для интернет-магазина. Обучил модель машинного обучения для классификации таких комментариев.|*pandas*, *numpy*, *re*, *pandarallel*, *spacy*, *sklearn*, *catboost*|
